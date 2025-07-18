@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Wang Qifeng (王 淇锋)
 
-🎓 **PhD Candidate in Software Engineering (Dalian University of Technology)** | **Visiting PhD in Bioengineering (Imperial College London)**  
+🎓 **PhD Candidate in Software Engineering (Dalian University of Technology)**
+   **Visiting PhD in Bioengineering (Imperial College London)**  
 💡 Researcher in **Medical Image Analysis, Artificial Intelligence, and Foundation Models**, focusing on **ultrasound-based segmentation, reconstruction, and clinical quantification**.
 
 ---
@@ -16,7 +17,7 @@
 - [**LiuLan Lab (Dalian University of Technology)**](https://dutliulab.github.io/LabWeb/LabHome/LabHome.htm)  
   *Research on medical imaging, deep learning, and clinical applications.*  
 
-- [**YapLab (Imperial College London)**]([https://yaplab.example.com](https://yaplab.github.io/LabHome.htm))  
+- [**YapLab (Imperial College London)**](https://yaplab.github.io/LabHome.htm)  
   *Biomedical engineering and fetal cardiac research with advanced imaging techniques.*  
 
 - [**4DFetal Project Website**](https://4dfetal.example.com)  
@@ -25,8 +26,9 @@
 ---
 
 ## 📫 Contact
-- **Email**: wqf970702@.mail.dlut.edu.cn  
-- **ResearchGate**: [your-scholar-link]([https://scholar.google.com/](https://www.researchgate.net/profile/Qifeng-Wang-9?ev=hdr_xprf))
-
+- **Email**: wqf970702@mail.dlut.edu.cn  
+- **ResearchGate**: [Qifeng Wang](https://www.researchgate.net/profile/Qifeng-Wang-9?ev=hdr_xprf)
 
 ---
+
+*Last updated: July 2025*
