@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wang Qifeng (王 淇锋)
 
-🎓 **PhD Candidate in Software Engineering (Dalian University of Technology)**
-   **Visiting PhD in Bioengineering (Imperial College London)**  
+🎓 **PhD Candidate in Software Engineering (Dalian University of Technology, China)**
+**Visiting PhD in Bioengineering (Imperial College London, UK)**  
 💡 Researcher in **Medical Image Analysis, Artificial Intelligence, and Foundation Models**, focusing on **ultrasound-based segmentation, reconstruction, and clinical quantification**.
 
 ---
