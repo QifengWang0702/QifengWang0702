@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Labs & Websites
-- [**LiuLan Lab (Dalian University of Technology)**](https://dutliulab.github.io/LabWeb/LabHome/LabHome.htm)  
+- [**LiuLab (Dalian University of Technology)**](https://dutliulab.github.io/LabWeb/LabHome/LabHome.htm)  
   *Research on medical imaging, deep learning, and clinical applications.*  
 
 - [**YapLab (Imperial College London)**](https://yaplab.github.io/LabHome.htm)  
